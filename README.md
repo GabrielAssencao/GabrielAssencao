@@ -1,11 +1,15 @@
+<img width="1024" height="1024" alt="ChatGPT Image May 30, 2026, 01_59_42 AM" src="https://github.com/user-attachments/assets/03c269e1-43e9-4432-a2bd-29bed067a415" />
+<img width="800" height="800" alt="scott-footer-optimize" src="https://github.com/user-attachments/assets/cb84599a-f103-4fe5-be05-707ccdf09010" />
+<img width="735" height="466" alt="scottidentidade" src="https://github.com/user-attachments/assets/28781e5d-706f-4af2-956f-6863cc635471" />
+
+
 # 🎮 GABRIEL VS. THE WORLD OF CODE 🎸
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/l41YvpiA9uMWw5AMU/giphy.gif](https://i.imgur.com/rXf1b2g.gif)" width="160" alt="Scott Pilgrim" />
+  <img src="https://github.com/user-attachments/assets/cb84599a-f103-4fe5-be05-707ccdf09010" width="200" alt="Scott Pilgrim" />
   
   <p align="center">
-    <strong>"Gabriel is legally required to say he is a developer."</strong><br>
-    <sub>Analisando sistemas por dia, subindo de nível no design por noite. 🛠️🎨</sub>
+    <strong>"Gabriel is legally required to say he is a developer."</strong>
   </p>
 </div>
 
@@ -13,35 +17,25 @@
 
 ### 🕹️ Meu Tamagotchi 👾
 <div align="center">
-  <img src="[https://media.giphy.com/media/X8b6w94wOQ4R1oK2vN/giphy.gif](https://i.imgur.com/39b895l.gif)" width="120" alt="Tamagotchi Pet" />
-  <br>
-  <span><strong>Status do Pet:</strong> Ativo & Focado ⚡</span>
-  <br>
-  <sub>Alimente este pet fazendo Commits e estudando UI/UX!</sub>
+  <img src="https://github.com/user-attachments/assets/03c269e1-43e9-4432-a2bd-29bed067a415" width="150" alt="Tamagotchi" />
 </div>
 
 ---
 
-### 🎒 Inventário de Skills (Power-ups)
-
-* ⚔️ **Front-end:** HTML5 | CSS3 | JavaScript | React
-* 🎨 **UI/UX Design:** Figma | Wireframing | Design Systems
-* 💾 **Database:** Lógica de Banco de Dados & Estruturas SQL
-
----
-
-### 🧬 Tech Tree (Linguagens Dominadas)
+### 🧬 Tech Tree (Linguagens)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAssencao&layout=compact&theme=tokyonight&hide_border=true" alt="Top Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAssencao&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" />
 </div>
 
 ---
 
 ### 📈 Status do Personagem
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/28781e5d-706f-4af2-956f-6863cc635471" width="150" alt="Tamagotchi" />
+</div>
 
 ```bash
 🥊 LEVEL: 21
-🏋️‍♂️ ESTILO DE VITA: Gym & Foco Diário
-🎧 AUDIO WORKSTATION: FL Studio (Beats & Sound Design)
+🏋️‍♂️ ESTILO DE VIDA: Gym & Foco Diário
 🎮 TACTICAL SQUAD: Combat Ready (Squad & BattleBit)
-⭐ QUEST ATUAL: Buscando oportunidades como Desenvolvedor Júnior ou Designer UI/UX
+⭐ QUEST: Em busca de oportunidade Júnior / UI-UX
