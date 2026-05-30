@@ -30,6 +30,13 @@
 
 ---
 
+### 🧬 Tech Tree (Linguagens Dominadas)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAssencao&layout=compact&theme=tokyonight&hide_border=true" alt="Top Linguagens" />
+</div>
+
+---
+
 ### 📈 Status do Personagem
 
 ```bash
