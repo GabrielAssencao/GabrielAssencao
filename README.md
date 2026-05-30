@@ -1,8 +1,7 @@
 # 🎮 GABRIEL VS. THE WORLD OF CODE 🎸
 
 <div align="center">
-  <!-- GIF Pixel Art do Scott Pilgrim Tocando Baixo -->
-  <img src="https://media.giphy.com/media/l41YvpiA9uMWw5AMU/giphy.gif" width="150" alt="Scott Pilgrim" />
+  <img src="https://media.giphy.com/media/l41YvpiA9uMWw5AMU/giphy.gif" width="160" alt="Scott Pilgrim" />
   
   <p align="center">
     <strong>"Gabriel is legally required to say he is a developer."</strong><br>
@@ -14,8 +13,7 @@
 
 ### 🕹️ Meu Tamagotchi 👾
 <div align="center">
-  <!-- GIF de um Bichinho Virtual Pixel Art estilo Tamagotchi -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p5N3I1cm94M3p6bXN0Ym1ndXN6bTZ0bndwNXZtcml4d3Y3bXg4ZSZlcD1zY2tidXN5X2luc2lkZV9naWZfYnlfaWQmY3Q9cw/X8b6w94wOQ4R1oK2vN/giphy.gif" width="100" alt="Tamagotchi Pet" />
+  <img src="https://media.giphy.com/media/X8b6w94wOQ4R1oK2vN/giphy.gif" width="120" alt="Tamagotchi Pet" />
   <br>
   <span><strong>Status do Pet:</strong> Ativo & Focado ⚡</span>
   <br>
