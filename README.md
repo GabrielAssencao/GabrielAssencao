@@ -17,17 +17,13 @@
 
 ---
 
-### 🧬 Tech Tree (Linguagens)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAssencao&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" />
-</div>
-
----
 
 ### 📈 Status do Personagem
 <div align="center">
   <img src="https://github.com/user-attachments/assets/28781e5d-706f-4af2-956f-6863cc635471" width="150" alt="Tamagotchi" />
 </div>
+
+<br>
 
 ```bash
 🥊 LEVEL: 21
