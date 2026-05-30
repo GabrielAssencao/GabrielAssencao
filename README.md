@@ -1,37 +1,40 @@
 # 🎮 GABRIEL VS. THE WORLD OF CODE 🎸
 
 <div align="center">
-  <!-- GIF do Scott Pilgrim em Pixel Art -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BwZ3Z5amM1bXN4N3pwd3N5N204cXNreW96b3Nnd3Z4Z3Y0Z3ZmdyZlcD1zY2tidXN5X2luc2lkZV9naWZfYnlfaWQmY3Q9cw/l41YvpiA9uMWw5AMU/giphy.gif" width="150" />
+  <!-- GIF Pixel Art do Scott Pilgrim -->
+  <img src="https://raw.githubusercontent.com/the-bionic/static-assets/main/scott-pilgrim-pixel.gif" width="160" alt="Scott Pilgrim" />
   
   <p align="center">
-    <strong>Analisando sistemas por dia, subindo de nível no design por noite.</strong>
+    <strong>"Gabriel is legally required to say he is a developer."</strong><br>
+    <sub>Analisando sistemas por dia, subindo de nível no design por noite. 🛠️🎨</sub>
   </p>
 </div>
 
 ---
 
-### 🕹️ Meu Tamagotchi de Dev
+### 🕹️ Status do Tamagotchi (Dev Edition)
 <div align="center">
-  <!-- Aqui simulamos uma tela de Tamagotchi usando um card de status de código -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_GITHUB_AQUI&layout=compact&theme=vision-friendly-dark" alt="Status do Tamagotchi" />
+  <!-- Card de Linguagens simulando a tela do Tamagotchi -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAssencao&layout=compact&theme=visual-studio&hide_border=false" alt="Status do Tamagotchi" />
   <br>
-  <sub>⚡ Alimente este Tamagotchi fazendo Commits e abrindo Pull Requests!</sub>
+  <sub>⚡ Alimente este pet fazendo commits e resolvendo bugs!</sub>
 </div>
 
 ---
 
 ### 🎒 Inventário de Skills (Power-ups)
 
-* ⚔️ **Front-end:** HTML5 | CSS3 | JavaScript (ES6+) | React
-* 🎨 **UI/UX Design:** Figma | Design Systems | Prototipagem
-* 💾 **Database:** Lógica de Banco de Dados & Estruturas
+* ⚔️ **Front-end:** HTML5 | CSS3 | JavaScript | React
+* 🎨 **UI/UX Design:** Figma | Wireframing | Design Systems
+* 💾 **Database:** Lógica de Banco de Dados & Estruturas SQL
 
 ---
 
-### 📈 Status Atuais
+### 📈 Status do Personagem
 
 ```bash
 🥊 LEVEL: 21
-🎸 WEAPON: Teclado Mecânico
-⭐ QUEST: Buscando novas oportunidades como Desenvolvedor Júnior ou Designer UI/UX
+🏋️‍♂️ ESTILO DE VITA: Gym & Foco Diário
+🎧 AUDIO WORKSTATION: FL Studio (Beats & Sound Design)
+🎮 TACTICAL SQUAD: Combat Ready (Squad & BattleBit)
+⭐ QUEST ATUAL: Buscando oportunidades como Desenvolvedor Júnior ou Designer UI/UX
