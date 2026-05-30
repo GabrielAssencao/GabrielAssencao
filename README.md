@@ -15,7 +15,7 @@
 ### 🕹️ Status do Tamagotchi (Dev Edition)
 <div align="center">
   <!-- Card de Linguagens simulando a tela do Tamagotchi -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganbedev&layout=compact&theme=visual-studio&hide_border=false" alt="Status do Tamagotchi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielassencao&layout=compact&theme=visual-studio&hide_border=false" alt="Status do Tamagotchi" />
   <br>
   <sub>⚡ Alimente este pet fazendo commits e resolvendo bugs!</sub>
 </div>
