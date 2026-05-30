@@ -1,7 +1,7 @@
 # 🎮 GABRIEL VS. THE WORLD OF CODE 🎸
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l41YvpiA9uMWw5AMU/giphy.gif" width="160" alt="Scott Pilgrim" />
+  <img src="[https://media.giphy.com/media/l41YvpiA9uMWw5AMU/giphy.gif](https://i.imgur.com/rXf1b2g.gif)" width="160" alt="Scott Pilgrim" />
   
   <p align="center">
     <strong>"Gabriel is legally required to say he is a developer."</strong><br>
@@ -13,7 +13,7 @@
 
 ### 🕹️ Meu Tamagotchi 👾
 <div align="center">
-  <img src="https://media.giphy.com/media/X8b6w94wOQ4R1oK2vN/giphy.gif" width="120" alt="Tamagotchi Pet" />
+  <img src="[https://media.giphy.com/media/X8b6w94wOQ4R1oK2vN/giphy.gif](https://i.imgur.com/39b895l.gif)" width="120" alt="Tamagotchi Pet" />
   <br>
   <span><strong>Status do Pet:</strong> Ativo & Focado ⚡</span>
   <br>
