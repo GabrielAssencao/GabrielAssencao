@@ -1,8 +1,8 @@
 # 🎮 GABRIEL VS. THE WORLD OF CODE 🎸
 
 <div align="center">
-  <!-- GIF Pixel Art do Scott Pilgrim -->
-  <img src="https://raw.githubusercontent.com/the-bionic/static-assets/main/scott-pilgrim-pixel.gif" width="160" alt="Scott Pilgrim" />
+  <!-- GIF Pixel Art do Scott Pilgrim Tocando Baixo -->
+  <img src="https://media.giphy.com/media/l41YvpiA9uMWw5AMU/giphy.gif" width="150" alt="Scott Pilgrim" />
   
   <p align="center">
     <strong>"Gabriel is legally required to say he is a developer."</strong><br>
@@ -12,12 +12,14 @@
 
 ---
 
-### 🕹️ Status do Tamagotchi (Dev Edition)
+### 🕹️ Meu Tamagotchi 👾
 <div align="center">
-  <!-- Card de Linguagens simulando a tela do Tamagotchi -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAssencao&layout=compact&theme=visual-studio&hide_border=false" alt="Status do Tamagotchi" />
+  <!-- GIF de um Bichinho Virtual Pixel Art estilo Tamagotchi -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p5N3I1cm94M3p6bXN0Ym1ndXN6bTZ0bndwNXZtcml4d3Y3bXg4ZSZlcD1zY2tidXN5X2luc2lkZV9naWZfYnlfaWQmY3Q9cw/X8b6w94wOQ4R1oK2vN/giphy.gif" width="100" alt="Tamagotchi Pet" />
   <br>
-  <sub>⚡ Alimente este pet fazendo commits e resolvendo bugs!</sub>
+  <span><strong>Status do Pet:</strong> Ativo & Focado ⚡</span>
+  <br>
+  <sub>Alimente este pet fazendo Commits e estudando UI/UX!</sub>
 </div>
 
 ---
