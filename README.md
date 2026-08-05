@@ -16,15 +16,15 @@
   </a>
 </div>
 
----
 
+---
 ### 🕹️ My Tamagotchi 👾
 <div align="center">
   <img src="https://github.com/user-attachments/assets/03c269e1-43e9-4432-a2bd-29bed067a415" width="150" alt="Tamagotchi" />
   
   <br><br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielAssencao&theme=tokyonight&hide_border=true&background=0D1117" alt="Tamagotchi Streaks" />
+ <img src="https://streak-stats.demolab.com/?user=GabrielAssencao&theme=tokyonight&hide_border=true&background=0D1117" alt="Tamagotchi Streaks" />
 </div>
 
 ---
@@ -39,17 +39,29 @@
 ### ⚔️ CURRENT BOSS FIGHT 👾
 
 <div align="center">
-  <h3>🐝 Project Lobee — IN PROGRESS [IN BATTLE]</h3>
-  <p>Aplicação web focada em integrar princípios avançados de <strong>UI/UX Design</strong>, estrutura de banco de dados e lógica em <strong>PHP</strong>.</p>
+  <h3>🚚 Project RPM Truck — IN PROGRESS [IN BATTLE]</h3>
+  <p>Aplicação em desenvolvimento focada em interface moderna, gerenciamento de dados e alta performance de experiência do usuário (UI/UX).</p>
 </div>
 
 ```bash
-🛡️ HIGHLIGHTS: Clean Design System | Responsive UI | Full Database Integration
-💥 TECH USED: PHP | MySQL | HTML/CSS | JS | Figma
-🔗 REPO: [https://github.com/GabrielAssencao/lobee](https://github.com/GabrielAssencao/lobee)
+🛡️ HIGHLIGHTS: Modern Interface | Responsive Layout | Optimized Workflows
+💥 TECH USED: React / JS | PHP | MySQL | Figma | CSS3
+🔗 REPO: in Progress...
+```
+---
+### 📈 Character Status
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/28781e5d-706f-4af2-956f-6863cc635471" width="150" alt="ID Card" />
+</div>
 
+<br>
+
+```bash
+🪪 ID: Gabriel Souza da Assenção de Jesus
 🥊 LEVEL: 21
 🎨 CLASS: Front-End / UI-UX Designer
+🎓 ACADEMY: Análise e Desenvolvimento de Sistemas | EBAC (UX/UI Design)
+🛠️ SKILLS: HTML5 | CSS3 | JavaScript | React | PHP | MySQL | Figma
 🏋️‍♂️ LIFESTYLE: Gym & Daily Focus
 🎮 TACTICAL SQUAD: Combat Ready (Squad & BattleBit)
 ⭐ CURRENT QUEST: Seeking Junior Dev / UI-UX Opportunities
