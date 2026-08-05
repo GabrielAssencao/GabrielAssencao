@@ -24,7 +24,7 @@
   
   <br><br>
   
- <img src="https://streak-stats.demolab.com/?user=GabrielAssencao&theme=tokyonight&hide_border=true&background=0D1117" alt="Tamagotchi Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielAssencao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 ---
