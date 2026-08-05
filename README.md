@@ -23,8 +23,11 @@
   <img src="https://github.com/user-attachments/assets/03c269e1-43e9-4432-a2bd-29bed067a415" width="150" alt="Tamagotchi" />
   
   <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielAssencao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+
+  <!-- Card Estável de Stats e Streak -->
+  <a href="https://github.com/GabrielAssencao">
+    <img src="https://streak-stats.demolab.com/?user=GabrielAssencao&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
