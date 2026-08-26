@@ -14,27 +14,9 @@
   <a href="mailto:gabriel.souza59.jesus@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
-
-
----
-### 🕹️ My Tamagotchi 👾
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/03c269e1-43e9-4432-a2bd-29bed067a415" width="150" alt="Tamagotchi" />
-  
-  <br><br>
-
-  <!-- Card Estável de Stats e Streak -->
-  <a href="https://github.com/GabrielAssencao">
-    <img src="https://streak-stats.demolab.com/?user=GabrielAssencao&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://wa.me/5513999999999" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="whatsapp logo" />
   </a>
-</div>
-
----
-
-### 🧬 Tech Tree (Languages & Tools)
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,figma,git,vscode&theme=dark" alt="Skills" />
 </div>
 
 ---
@@ -50,21 +32,3 @@
 🛡️ HIGHLIGHTS: Modern Interface | Responsive Layout | Optimized Workflows
 💥 TECH USED: React / JS | PHP | MySQL | Figma | CSS3
 🔗 REPO: in Progress...
-```
----
-### 📈 Character Status
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/28781e5d-706f-4af2-956f-6863cc635471" width="150" alt="ID Card" />
-</div>
-
-<br>
-
-```bash
-🪪 ID: Gabriel Souza da Assenção de Jesus
-🥊 LEVEL: 21
-🎨 CLASS: Front-End / UI-UX Designer
-🎓 ACADEMY: Análise e Desenvolvimento de Sistemas | EBAC (UX/UI Design)
-🛠️ SKILLS: HTML5 | CSS3 | JavaScript | React | PHP | MySQL | Figma
-🏋️‍♂️ LIFESTYLE: Gym & Daily Focus
-🎮 TACTICAL SQUAD: Combat Ready (Squad & BattleBit)
-⭐ CURRENT QUEST: Seeking Junior Dev / UI-UX Opportunities
