@@ -1,0 +1,34 @@
+name: Generate streak stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate streak SVG
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=dracula&hide_border=false&locale=pt_BR&disable_animations=true
+          path: streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish SVG
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: streak-output
+          folder: .
+          single-commit: true
