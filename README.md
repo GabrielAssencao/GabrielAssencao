@@ -9,7 +9,7 @@
 <h2 align="center">🎮 GABRIEL VS. THE WORLD OF CODE 🎸</h2>
 
 <p align="center">
-  <a href="https://wa.me/qr/SRIXF4ZFONTWI1">
+  <a href="https://api.whatsapp.com/send/?phone=5513997452121&text&type=phone_number&app_absent=0">
     <img
       src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge"
       height="25"
