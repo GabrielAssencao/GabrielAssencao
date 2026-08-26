@@ -1,18 +1,10 @@
-<br clear="both">
-
-<div data-importer="border">
+<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
-</div>
+</p>
 
-###
+<p align="center">🎮 GABRIEL VS. THE WORLD OF CODE 🎸</p>
 
-<br clear="both">
-
-<p data-importer="text" align="center">🎮 GABRIEL VS. THE WORLD OF CODE 🎸</p>
-
-###
-
-<div data-importer="socials" align="center">
+<p align="center">
   <a href="https://wa.me/qr/SRIXF4ZFONTWI1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="whatsapp logo" />
   </a>
@@ -22,40 +14,69 @@
   <a href="https://www.linkedin.com/in/gabriel-souza-289410334/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo" />
   </a>
-</div>
+</p>
 
-###
-
-<div data-importer="techs" align="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-</div>
+</p>
 
-###
+<br>
 
-<div>
-  <img data-importer="image" align="right" height="250" src="https://scottpilgrimex.com/img/scott-footer-optimize.gif?utm_source=Pinterest&utm_medium=organic" />
+<img align="right" height="230" src="https://scottpilgrimex.com/img/scott-footer-optimize.gif?utm_source=Pinterest&utm_medium=organic" />
 
-  ### 📈 Character Status
-  ```text
-  🪪 ID: Gabriel Souza da Assenção de Jesus
-  🥊 LEVEL: 21
-  🎨 CLASS: Front-End / UI-UX Designer
-  🎓 ACADEMY: Análise e Desenvolvimento de Sistemas | EBAC (UX/UI Design)
-  🛠️ SKILLS: HTML5 | CSS3 | JavaScript | React | PHP | MySQL | Figma
-  🏋️‍♂️ LIFESTYLE: Gym & Daily Focus
-  🎮 TACTICAL SQUAD: Combat Ready (Squad & BattleBit)
-  ⭐ CURRENT QUEST: Seeking Junior Dev / UI-UX Opportunities
+### 📈 Character Status
+
+<pre>
+🪪 ID: Gabriel Souza da Assenção de Jesus
+🥊 LEVEL: 21
+🎨 CLASS: Front-End / UI-UX Designer
+🎓 ACADEMY: Análise e Desenvolvimento de Sistemas | EBAC (UX/UI Design)
+🛠️ SKILLS: HTML5 | CSS3 | JavaScript | React | PHP | MySQL | Figma
+🏋️‍♂️ LIFESTYLE: Gym & Daily Focus
+🎮 TACTICAL SQUAD: Combat Ready (Squad & BattleBit)
+⭐ CURRENT QUEST: Seeking Junior Dev / UI-UX Opportunities
+</pre>
+
+<br clear="both">
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielAssencao/GabrielAssencao/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielAssencao/GabrielAssencao/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielAssencao/GabrielAssencao/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/zciw09hpggypuuovrrwo41wqc" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zciw09hpggypuuovrrwo41wqc&count=3&unique=false" alt="Spotify recently played" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GabrielAssencao/GabrielAssencao/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/GabrielAssencao/GabrielAssencao/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph" />
+  <img src="https://git-streak-stats.herokuapp.com/?user=GabrielAssencao&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GabrielAssencao/GabrielAssencao/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
+</p>
